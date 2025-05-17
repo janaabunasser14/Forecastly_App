@@ -10,3 +10,9 @@ Forecastly is a lightweight, elegant web application that provides real-time wea
 - Error Handling: User-friendly message if the city is not found.
 - Responsive Design: Works seamlessly on desktop and mobile.
 
+
+🎨 Customization
+
+- Background Image: Replace assets/background.jpg with your own image.
+- Color Scheme: Tweak RGBA values in style.css to adjust overlay opacity and text colors.
+- Icons: Modify or extend the weather icons in assets/ to match your style.
